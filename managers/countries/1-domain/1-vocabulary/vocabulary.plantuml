@@ -1,0 +1,43 @@
+@startuml vocabulary
+
+class Country {
+  cca2 : string
+  ccn3 : string
+  cca3 : string
+  cioc : string
+  independent : boolean
+  status : string
+  unMember : boolean
+  capital : string[]
+  region : string
+  subregion : string
+  landlocked : boolean
+  area : number
+  flag : url
+  population : number
+  fifa : string
+  startOfWeek : string
+}
+
+class Name {
+  common : string
+  official : string
+}
+
+Country *-down-> Name : name
+
+class NativeName {
+  common : string
+  official : string
+}
+
+Name *-down-> "+" NativeName : nativeName
+
+class Translation {
+  common : string
+  official : string
+}
+
+Country *-down-> "+" Translation : translations
+
+@enduml

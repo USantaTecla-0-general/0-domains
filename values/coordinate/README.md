@@ -4,3 +4,9 @@ Universo Santa Tecla
 
 * [all](./all.md)
 
+[//]: <> (
+deplazada
+esVecino y vecinas
+esHorizontal, esDiagonal, 
+...
+)

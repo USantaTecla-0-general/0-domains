@@ -4,3 +4,8 @@ Universo Santa Tecla
 
 * [all](./all.md)
 
+[//]: <> (
+simplificar
+tantoPorciento
+...
+)

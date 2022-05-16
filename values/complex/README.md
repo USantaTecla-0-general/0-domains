@@ -4,3 +4,8 @@ Universo Santa Tecla
 
 * [all](./all.md)
 
+[//]: <> (
+cartesiano con coordenada y polar con vector
+suma, resta, multiplicacion, escalar, potencia,
+...
+)

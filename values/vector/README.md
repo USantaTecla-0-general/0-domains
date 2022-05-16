@@ -4,3 +4,6 @@ Universo Santa Tecla
 
 * [all](./all.md)
 
+[//]: <> (
+...
+)

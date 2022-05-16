@@ -1,0 +1,7 @@
+@startuml countryState
+
+object Papua as "Papua : Country" {
+    name : 
+}
+
+@enduml

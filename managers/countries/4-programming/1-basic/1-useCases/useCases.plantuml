@@ -1,0 +1,11 @@
+@startuml actorsUseCaseDiagram
+left to right direction
+actor Player
+usecase Start
+usecase Play
+usecase Resume
+
+Player --> Start
+Player --> Play
+Player --> Resume
+@enduml
