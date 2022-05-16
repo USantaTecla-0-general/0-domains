@@ -1,0 +1,19 @@
+@startuml instructionsState
+
+state A as " "
+state B as " "
+state C as " "
+state D as " "
+state E as " "
+[*] --> A
+A --> B: put X
+B --> A : put O
+B --> C : [isCompletedX]
+C --> D : put O
+C --> [*] : [isTicTacToeX]
+D --> E : move X
+E --> D : move O
+D --> [*] : [isTicTacToeO]
+E --> [*] : [isTicTacToeX]
+
+@enduml

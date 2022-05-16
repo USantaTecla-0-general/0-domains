@@ -1,0 +1,40 @@
+@startuml vocabulary
+
+TicTacToe *-down-> "2" Player
+TicTacToe *-down-> Board
+TicTacToe *-down-> Turn
+
+Turn -down-> "2" Player
+
+Player -down-> Board
+Player o-down-> "0..3" Piece
+Player o-down-> Goal
+Player *-down-> Color
+
+
+Action <|-down- Put
+Action <|-down- Move
+
+Piece *-down-> Color
+
+Color <|-down- X
+Color <|-down- O
+
+Goal ..> "3" Put
+Goal ..> "*" Move
+Goal ..> "3" Square
+
+Board *-down-> "3x3" Square
+Square *-down-> Coordinate
+Square o-down-> "0..1" Piece
+
+Action .down.> Piece
+Action .down.> Square : target
+Move .down.> Square : origin
+
+Goal <|-down- Row
+Goal <|-down- Column
+Goal <|-down- MainDiagonal
+Goal <|-down- InvertedDiagonal
+
+@enduml

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="888px" preserveAspectRatio="none" style="width:952px;height:888px;background:#FFFFFF;" version="1.1" viewBox="0 0 952 888" width="952px" zoomAndPan="magnify"><defs><filter height="300%" id="f4evhfhb1bbm3" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><g id="Básica"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="62" x="364.5" y="228.5"/><line style="stroke:#A80036;stroke-width:1.5;" x1="364.5" x2="426.5" y1="256.1094" y2="256.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="374.5" y="248.0332">Básica</text></g><g id="Gráficos"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="73" x="544" y="228.5"/><line style="stroke:#A80036;stroke-width:1.5;" x1="544" x2="617" y1="256.1094" y2="256.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="554" y="248.0332">Gráficos</text></g><g id="UndoRedo"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="87" x="537" y="361"/><line style="stroke:#A80036;stroke-width:1.5;" x1="537" x2="624" y1="388.6094" y2="388.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="547" y="380.5332">UndoRedo</text></g><g id="ClienteServidor"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="117" x="522" y="489"/><line style="stroke:#A80036;stroke-width:1.5;" x1="522" x2="639" y1="516.6094" y2="516.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="532" y="508.5332">ClienteServidor</text></g><g id="Ficheros"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="75" x="543" y="617"/><line style="stroke:#A80036;stroke-width:1.5;" x1="543" x2="618" y1="644.6094" y2="644.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="553" y="636.5332">Ficheros</text></g><g id="BasesDatos"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="96" x="532.5" y="745"/><line style="stroke:#A80036;stroke-width:1.5;" x1="532.5" x2="628.5" y1="772.6094" y2="772.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="542.5" y="764.5332">BasesDatos</text></g><ellipse cx="487.5" cy="16" fill="#000000" filter="url(#f4evhfhb1bbm3)" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="Sencilla"><rect fill="#FEFECE" filter="url(#f4evhfhb1bbm3)" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="69" x="453" y="91.5"/><line style="stroke:#A80036;stroke-width:1.5;" x1="453" x2="522" y1="119.1094" y2="119.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="463" y="111.0332">Sencilla</text></g><ellipse cx="580.5" cy="866" filter="url(#f4evhfhb1bbm3)" rx="10" ry="10" style="stroke:#000000;stroke-width:1.0;fill:none;"/><ellipse cx="581" cy="866.5" fill="#000000" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><path d="M557.5,87 L557.5,112.5 L522.35,116.5 L557.5,120.5 L557.5,146.0547 A0,0 0 0 0 557.5,146.0547 L847.5,146.0547 A0,0 0 0 0 847.5,146.0547 L847.5,97 L837.5,87 L557.5,87 A0,0 0 0 0 557.5,87 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M837.5,87 L837.5,97 L847.5,97 L837.5,87 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="269" x="563.5" y="105.4951">Juego de las 3 en raya con interfaz de consola</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="232" x="567.5" y="121.8467">y con casos de uso para dos jugadores:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="162" x="563.5" y="138.1982">arrancar, jugar y continuará.</text><path d="M6,224 L6,283.0547 A0,0 0 0 0 6,283.0547 L329,283.0547 A0,0 0 0 0 329,283.0547 L329,257.5 L364.4,253.5 L329,249.5 L329,234 L319,224 L6,224 A0,0 0 0 0 6,224 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M319,224 L319,234 L329,234 L319,224 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="269" x="12" y="242.4951">Juego de las 3 en raya con interfaz de consola</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="298" x="16" y="258.8467">y con casos de uso añadiendo un jugador máquina:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="162" x="12" y="275.1982">arrancar, jugar y continuará.</text><path d="M652.5,240.5 L652.5,249.5 L617.14,253.5 L652.5,257.5 L652.5,266.8516 A0,0 0 0 0 652.5,266.8516 L826.5,266.8516 A0,0 0 0 0 826.5,266.8516 L826.5,250.5 L816.5,240.5 L652.5,240.5 A0,0 0 0 0 652.5,240.5 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M816.5,240.5 L816.5,250.5 L826.5,250.5 L816.5,240.5 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="153" x="658.5" y="258.9951">Añadiendo interfaz gráfica.</text><path d="M659,364.5 L659,382 L624.25,386 L659,390 L659,407.2031 A0,0 0 0 0 659,407.2031 L902,407.2031 A0,0 0 0 0 902,407.2031 L902,374.5 L892,364.5 L659,364.5 A0,0 0 0 0 659,364.5 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M892,364.5 L892,374.5 L902,374.5 L892,364.5 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="222" x="665" y="382.9951">Añadiendo funcionalidad con deshacer</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="665" y="399.3467">y rehacer jugadas.</text><path d="M674.5,501 L674.5,510 L639.41,514 L674.5,518 L674.5,527.3516 A0,0 0 0 0 674.5,527.3516 L920.5,527.3516 A0,0 0 0 0 920.5,527.3516 L920.5,511 L910.5,501 L674.5,501 A0,0 0 0 0 674.5,501 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M910.5,501 L910.5,511 L920.5,511 L910.5,501 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="225" x="680.5" y="519.4951">Añadiendo distribución cliente/servidor.</text><path d="M653.5,620.5 L653.5,638 L618.17,642 L653.5,646 L653.5,663.2031 A0,0 0 0 0 653.5,663.2031 L913.5,663.2031 A0,0 0 0 0 913.5,663.2031 L913.5,630.5 L903.5,620.5 L653.5,620.5 A0,0 0 0 0 653.5,620.5 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M903.5,620.5 L903.5,630.5 L913.5,630.5 L903.5,620.5 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="239" x="659.5" y="638.9951">Añadiendo funcionalidad con persistencia</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="659.5" y="655.3467">de ficheros.</text><path d="M664,757 L664,766 L628.85,770 L664,774 L664,783.3516 A0,0 0 0 0 664,783.3516 L943,783.3516 A0,0 0 0 0 943,783.3516 L943,767 L933,757 L664,757 A0,0 0 0 0 664,757 " fill="#15D2F3" filter="url(#f4evhfhb1bbm3)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M933,757 L933,767 L943,767 L933,757 " fill="#15D2F3" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="258" x="670" y="775.4951">Adaptando persistencia con bases de datos.</text><!--MD5=[54a0ac95c72fcb3076be9f11a1fac05d]
+link *start to Sencilla--><path d="M487.5,26.09 C487.5,39.61 487.5,65.63 487.5,86.13 " fill="none" id="*start-to-Sencilla" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="487.5,91.21,491.5,82.21,487.5,86.21,483.5,82.21,487.5,91.21" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[483fb34adc4d1182379792a0fdd9019a]
+link Sencilla to Básica--><path d="M452.92,128.85 C431.36,137.93 405.35,153 392.5,176 C384.58,190.18 384.9,208.25 387.41,223.27 " fill="none" id="Sencilla-to-Básica" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="388.33,228.23,390.6213,218.6514,387.418,223.3139,382.7555,220.1106,388.33,228.23" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="393.5" y="190.4951">Mantenimiento perfectivo</text><!--MD5=[c70c259be1a4d98c8cfb2aee1dfd945a]
+link Sencilla to Gráficos--><path d="M512.49,141.55 C522.23,151.65 533.05,163.86 541.5,176 C551.84,190.84 561.13,208.79 568.05,223.57 " fill="none" id="Sencilla-to-Gráficos" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="570.31,228.45,570.1644,218.6022,568.212,223.9115,562.9028,221.959,570.31,228.45" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="147" x="554.5" y="190.4951">Mantenimiento adaptativo</text><!--MD5=[f84994fe424171fa73ab202e8d1682ff]
+link Gráficos to UndoRedo--><path d="M580.5,278.74 C580.5,300.53 580.5,332.59 580.5,355.79 " fill="none" id="Gráficos-to-UndoRedo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="580.5,360.89,584.5,351.89,580.5,355.89,576.5,351.89,580.5,360.89" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="581.5" y="327.4951">Mantenimiento perfectivo</text><!--MD5=[518d0a0fdd1b437d9b8bddfda61a7673]
+link UndoRedo to ClienteServidor--><path d="M580.5,411.29 C580.5,431.95 580.5,461.67 580.5,483.65 " fill="none" id="UndoRedo-to-ClienteServidor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="580.5,488.78,584.5,479.78,580.5,483.78,576.5,479.78,580.5,488.78" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="147" x="581.5" y="455.4951">Mantenimiento adaptativo</text><!--MD5=[314dd3092bc937f8551317235c4480a2]
+link ClienteServidor to Ficheros--><path d="M580.5,539.29 C580.5,559.95 580.5,589.67 580.5,611.65 " fill="none" id="ClienteServidor-to-Ficheros" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="580.5,616.78,584.5,607.78,580.5,611.78,576.5,607.78,580.5,616.78" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="581.5" y="583.4951">Mantenimiento perfectivo</text><!--MD5=[28750a9e82a22816a1b2c2e97b9ba5ff]
+link Ficheros to BasesDatos--><path d="M580.5,667.29 C580.5,687.95 580.5,717.67 580.5,739.65 " fill="none" id="Ficheros-to-BasesDatos" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="580.5,744.78,584.5,735.78,580.5,739.78,576.5,735.78,580.5,744.78" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="147" x="581.5" y="711.4951">Mantenimiento adaptativo</text><!--MD5=[ee5cd2ac3662af3e5a8f0935aca91e43]
+link BasesDatos to *end--><path d="M580.5,795.21 C580.5,812.84 580.5,836.13 580.5,850.84 " fill="none" id="BasesDatos-to-*end" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="580.5,855.84,584.5,846.84,580.5,850.84,576.5,846.84,580.5,855.84" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8925d5eacd8748ea66f6903ec3aef895]
+@startuml versions
+
+state Básica
+state Gráficos
+state UndoRedo
+state ClienteServidor
+State Ficheros
+State BasesDatos
+
+[*] - -> Sencilla
+Sencilla - -> Básica :Mantenimiento perfectivo
+Sencilla - -> Gráficos:Mantenimiento adaptativo
+Gráficos - -> UndoRedo:Mantenimiento perfectivo
+UndoRedo - -> ClienteServidor:Mantenimiento adaptativo
+ClienteServidor - -> Ficheros:Mantenimiento perfectivo
+Ficheros - -> BasesDatos:Mantenimiento adaptativo
+BasesDatos - -> [*]
+
+note right of Sencilla #15D2F3
+  Juego de las 3 en raya con interfaz de consola
+   y con casos de uso para dos jugadores:
+  arrancar, jugar y continuará.
+end note
+
+note left of Básica #15D2F3
+  Juego de las 3 en raya con interfaz de consola
+   y con casos de uso añadiendo un jugador máquina:
+  arrancar, jugar y continuará.
+end note
+
+note right of Gráficos #15D2F3
+  Añadiendo interfaz gráfica.
+end note
+
+note right of UndoRedo #15D2F3
+  Añadiendo funcionalidad con deshacer
+  y rehacer jugadas.
+end note
+
+note right of ClienteServidor #15D2F3
+  Añadiendo distribución cliente/servidor.
+end note
+
+note right of Ficheros #15D2F3
+  Añadiendo funcionalidad con persistencia
+  de ficheros.
+end note
+
+note right of BasesDatos #15D2F3
+  Adaptando persistencia con bases de datos.
+end note
+
+
+@enduml
+
+PlantUML version 1.2021.16(Wed Dec 08 18:25:22 CET 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: es
+Country: ES
+--></g></svg>
