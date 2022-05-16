@@ -1,10 +1,8 @@
-# coordinate
+# equationsSystem
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
 [//]: <> (
-deplazada
-esVecino y vecinas
-esHorizontal, esDiagonal, 
+SistemaEcuaciones (resolución por igualdad, sustitución y reducción)
 ...
 )

@@ -2,8 +2,6 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
-* [all](./all.md)
-
 [//]: <> (
 siguiente y anterior edad
 edadLaboral

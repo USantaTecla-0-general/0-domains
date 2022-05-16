@@ -1,10 +1,10 @@
-# coordinate
+# membraneSystems
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
 [//]: <> (
-deplazada
-esVecino y vecinas
-esHorizontal, esDiagonal, 
+multiconjuntos
+reglas de aplicacion
+membrana con evolución
 ...
 )
