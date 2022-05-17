@@ -2,7 +2,7 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
-* [close](./closed/README.md)
+* [close](./close/README.md)
 * [openClose](./openClose/README.md)
 
 [//]: <> (
