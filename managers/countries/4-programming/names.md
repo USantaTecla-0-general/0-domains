@@ -1,4 +1,4 @@
-# Nombres
+# Names
 
 A partir de la tabla de nombres en [NAMES](https://github.com/USantaTecla-tech-javascript/src/blob/master/manager/countries/x-data/names.js)
 

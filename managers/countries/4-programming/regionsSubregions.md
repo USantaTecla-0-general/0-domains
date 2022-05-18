@@ -1,4 +1,4 @@
-# Nombres
+# RegionsSubregions
 
 A partir de la tabla de [regiones](https://github.com/USantaTecla-tech-javascript/src/blob/master/manager/countries/x-data/regions.js) y de [subregiones](https://github.com/USantaTecla-tech-javascript/src/blob/master/manager/countries/x-data/subregion.js)
 
