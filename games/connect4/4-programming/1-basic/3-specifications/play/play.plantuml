@@ -1,0 +1,22 @@
+@startuml playUseCaseSpecification
+state A as "IN_GAME"
+state B as " "
+state C as " "
+state D as " "
+state E as " "
+
+state if <<choice>>
+state if2 <<choice>>
+
+[*] --> A
+A --> B: Current turn player requests Play
+B --> C: System request column to drop token
+C --> if: Current turn player answer column
+if --> E: [column < 1 || 7 < column \n|| column is completed]
+E --> B: System show error
+if --> if2: System show board with token \noccupying the lowest available space \nwithin the column]
+if2 --> D: [the first to form a horizontal, vertical, \nor diagonal line of four of one's own tokens]
+D --> [*]: System show winner message
+if2 --> F: [the board is completed]
+F --> [*]: System show tied message
+@enduml
