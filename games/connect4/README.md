@@ -2,7 +2,7 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
-![connect4](./connect4.png)  
+![connect4](./connect4.jpg)  
 
 * [1-domain](./1-domain/README.md)
 * [2-data](./2-data/README.md)
