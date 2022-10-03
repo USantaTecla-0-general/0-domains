@@ -8,4 +8,4 @@ Universo Santa Tecla
 <!-- * [2-data](./2-data/README.md)
 * [3-publication](./3-publication/README.md) -->
 * 4-requirements
-    * [1-basic](./1-basic/README.md)
+    * [1-basic](./4-requirements/1-basic/README.md)
