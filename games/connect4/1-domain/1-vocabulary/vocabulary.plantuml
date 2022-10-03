@@ -1,0 +1,37 @@
+@startuml vocabulary
+
+class Connect4
+class Turn
+class Player
+class Board
+class Coordinate
+class Token
+class Goal
+class Color
+class Red
+class Yellow
+class Drop
+
+Connect4 *-down-> Board
+Connect4 *-down-> Turn
+Connect4 *-down-> "2" Player
+Turn -down-> "2" Player
+Player -down-> Board
+Player -down-> Color
+Player -down-> Goal
+Player -down-> "3..21" Drop
+Goal o-down-> "4" Drop
+Drop -down-> Coordinate
+Column *-down-> "6" Coordinate
+Board *-down-> "7" Column
+Drop -down-> Column
+Coordinate -down-> "?" Token
+Token *-down-> Color
+Goal <|-down- HorizontalGoal
+Goal <|-down- VerticalGoal
+Goal <|-down- DiagonalGoal
+Goal <|-down- InverseGoal
+Color <|-down- Red
+Color <|-down- Yellow
+
+@enduml

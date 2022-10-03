@@ -1,0 +1,55 @@
+@startuml versions
+
+state "1-basic" as basic
+state "2-machine" as machine 
+state "3-graphics" as graphics 
+state "4-undoRedo" as undoRedo 
+state "5-distributed" as distributed
+State "6-files" as files
+State "7-dataBase" as dataBase
+
+[*] --> basic
+basic --> machine :Mantenimiento\n perfectivo
+basic --> graphics:Mantenimiento\n adaptativo
+graphics --> undoRedo:Mantenimiento\n perfectivo
+undoRedo --> distributed:Mantenimiento\n adaptativo
+distributed --> files:Mantenimiento\n perfectivo
+files --> dataBase:Mantenimiento\n adaptativo
+dataBase --> [*]
+
+note right of basic #15D2F3
+  Juego de las 3 en raya con interfaz de consola
+   y con casos de uso para dos jugadores:
+  arrancar, jugar y continuará.
+end note
+
+note left of machine #15D2F3
+  Juego de las 3 en raya con interfaz de consola
+   y con casos de uso añadiendo un jugador máquina:
+  arrancar, jugar y continuará.
+end note
+
+note right of graphics #15D2F3
+  Añadiendo interfaz gráfica.
+end note
+
+note right of undoRedo #15D2F3
+  Añadiendo funcionalidad con deshacer
+  y rehacer jugadas.
+end note
+
+note right of distributed #15D2F3
+  Añadiendo distribución cliente/servidor.
+end note
+
+note right of files #15D2F3
+  Añadiendo funcionalidad con persistencia
+  de files.
+end note
+
+note right of dataBase #15D2F3
+  Adaptando persistencia con bases de datos.
+end note
+
+
+@enduml

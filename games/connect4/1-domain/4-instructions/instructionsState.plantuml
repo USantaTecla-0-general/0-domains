@@ -1,0 +1,14 @@
+@startuml instructionsState
+
+state A as " "
+state B as " "
+
+[*] --> A
+A --> B: drop red
+B --> A : drop yellow
+A --> [*] : [isConnect4]
+B --> [*] : [isConnect4]
+A --> [*] : [isCompleted]
+B --> [*] : [isCompleted]
+
+@enduml
